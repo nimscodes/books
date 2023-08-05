@@ -49,7 +49,7 @@ The client side runs on http://localhost:3000 by default.
 npm run server
 ```
 
-The client server runs on http://localhost:3001 by default.
+The server side runs on http://localhost:3001 by default.
 
 
 ## Contributing
